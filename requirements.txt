@@ -1,0 +1,5 @@
+# iterface
+slack-bolt==1.16.1
+slack-sdk==3.19.5
+# app
+openai==0.26.4
